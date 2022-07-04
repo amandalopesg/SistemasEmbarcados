@@ -1,0 +1,7 @@
+hw.c:15:6:hw_switch_state_get	32	static
+hw.c:32:6:hw_led_state_set	24	static
+hw.c:40:6:hw_time_delay_ms	16	static
+hw.c:45:10:hw_time_ticks_get_ms	8	static
+hw.c:50:10:hw_time_elapsed_ms	24	static
+hw.c:63:6:hw_cpu_sleep	4	static,ignoring_inline_asm
+hw.c:68:6:HAL_GPIO_EXTI_Callback	16	static
